@@ -1,7 +1,2 @@
 ## Hello World 👋
-
-<-
-I like reading Manga 📖
-I Love Myrtle from Arknight 🌿
-HuoHuo 🥵🔥
-->
+I am currently Studying in SMK INFORMATIKA PESAT
